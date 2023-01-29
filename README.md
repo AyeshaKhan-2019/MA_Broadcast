@@ -8,4 +8,5 @@ Create a BroadcastCounter application that includes the given features:<br>
 </ul>
 <br><br>
 <b>Screenshot</b><br>
-![Screenshot BroadCast](https://user-images.githubusercontent.com/56563643/215350769-70d13a8a-15bd-43b5-a58f-59e556e80570.png)
+
+![Screenshot BroadCast](https://user-images.githubusercontent.com/56563643/215350831-a8e1a10a-7c95-4133-90bd-09ca34ffca20.png)
